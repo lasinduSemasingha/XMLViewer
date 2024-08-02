@@ -5,7 +5,7 @@ a = Analysis(
     ['xml_to_excel_converter.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('icon.png', '.'), ('icon.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
