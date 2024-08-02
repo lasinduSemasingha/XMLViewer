@@ -22,18 +22,22 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas openpyxl pillow
+```
 
 Installation
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/xml-to-excel-converter.git
+```
 
 ```bash
 cd xml-to-excel-converter
+```
 
 ```bash
 python xml_to_excel_converter.py
+```
 
 Creating an Executable
 To create an executable file for easy distribution, you can use PyInstaller:
@@ -42,8 +46,10 @@ Install PyInstaller:
 
 ```bash
 pip install pyinstaller
+```
 
 Create the executable:
 
 ```bash
 pyinstaller --onefile --windowed xml_to_excel_converter.py
+```
