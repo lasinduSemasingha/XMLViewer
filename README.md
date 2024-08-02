@@ -26,8 +26,7 @@ pip install pandas openpyxl pillow
 Installation
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/xml-to-excel-converter.git
+```bash git clone https://github.com/your-username/xml-to-excel-converter.git
 
 ```bash
 cd xml-to-excel-converter
