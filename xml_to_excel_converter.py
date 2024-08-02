@@ -59,7 +59,7 @@ title_label = ttk.Label(frame, text="XML to Excel Converter", font=("Arial", 16,
 title_label.pack(pady=10)
 
 # Description label
-description_label = ttk.Label(frame, text="Select XML files to convert them to Excel format.", font=("Arial", 12))
+description_label = ttk.Label(frame, text="Select XML files to convert them to Excel format.", font=("Arial", 12, "italic"))
 description_label.pack(pady=10)
 
 # Create a select button with padding and styling
