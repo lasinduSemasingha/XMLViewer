@@ -46,9 +46,9 @@ root.title("XML to Excel Converter")
 root.geometry("400x200")
 
 # Load an icon image (optional)
-icon_image = Image.open('icon.png')
-icon_photo = ImageTk.PhotoImage(icon_image)
-root.iconphoto(False, icon_photo)
+# icon_image = Image.open('icon.png')
+# icon_photo = ImageTk.PhotoImage(icon_image)
+# root.iconphoto(False, icon_photo)
 
 # Create a stylish frame
 frame = ttk.Frame(root, padding="20")
